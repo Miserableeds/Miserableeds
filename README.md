@@ -1,7 +1,7 @@
 <h1 align="center">Yo, I'm Nancy</h1>
-<h3 align="center">A passionate game developer from Indonesian</h3>
+<h3 align="center">A tech enthusiast from Indonesian</h3>
 
-- ⚡ Fun fact **I'm Jack Of All Trades**
+- ⚡ Fun fact **God knew I'd be too powerful if I could master everything.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
